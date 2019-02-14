@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d7d4d4"
+    android:orientation="vertical"
+    android:paddingLeft="7dp"
+    tools:context=".Main3Activity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:background="@drawable/language_kids"
+        />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="2">
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/jhonny"
+            />
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/coraje"
+            />
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/dexter"
+            />
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/vyp"
+            />
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/rocket"
+            />
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/pika"
+            />
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/catdog"
+            />
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/rugrats"
+            />
+
+
+    </GridLayout>
+
+
+
+
+
+
+
+
+</LinearLayout>
